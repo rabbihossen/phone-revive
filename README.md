@@ -1,4 +1,8 @@
-# 📱 PhoneFix - Autonomous AI Android Health, Diagnostics & Performance Optimizer
+<div align="center">
+  <img src="assets/banner.jpg" alt="PhoneRevive Banner" width="100%" />
+</div>
+
+# 📱 PhoneRevive (PhoneFix) - Android Diagnostics & Performance Optimizer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg)](https://www.python.org/)
@@ -6,9 +10,9 @@
 [![Android: 8.0 - 15+](https://img.shields.io/badge/Android-8.0%20--%2015%2B-orange.svg)](https://developer.android.com/)
 [![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(Stdlib)-purple.svg)](requirements.txt)
 
-> **PhoneFix** is an enterprise-grade, open-source Android diagnostics and performance optimization engine engineered for **humans and AI coding assistants** (Google Antigravity, Claude Code, Cursor, OpenHands).
+> **PhoneRevive** is an open-source Android diagnostics and performance optimization engine engineered for **humans and AI coding assistants** (Google Antigravity, Claude Code, Cursor, OpenHands).
 >
-> Simply point your AI agent or CLI to this repository, connect any Android phone via USB or Wi-Fi, and let PhoneFix audit system health, reclaim gigabytes of storage, eliminate RAM bottlenecks, disable ad bloatware, unlock 120Hz displays, and compile apps Ahead-of-Time — **with zero risk to personal photos, chats, or vault data**.
+> Simply point your AI agent or run a single CLI command, connect any Android phone via USB or Wi-Fi, and let PhoneRevive audit system health, reclaim gigabytes of storage, eliminate RAM bottlenecks, disable ad bloatware, unlock 120Hz displays, and compile apps Ahead-of-Time — **with zero risk to personal photos, chats, or vault data**.
 
 ---
 
