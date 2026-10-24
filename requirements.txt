@@ -1,0 +1,1 @@
+# PhoneFix core has zero mandatory dependencies for maximum portability and zero install friction.
